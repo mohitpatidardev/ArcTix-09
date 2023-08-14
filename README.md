@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **IOT and Programming**
 
-- 📫 How to reach me **mohitpatidar2186@gmail.com**
+- 📫 How to reach me **mohitpatidar.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
